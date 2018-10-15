@@ -20,6 +20,6 @@ end
 
 def take_a_number(new_customer)
   line_status << new_customer
-  puts "Welcome #{new_customer). You are number #{queue.length} in line."
+  puts "Welcome #{new_customer}. You are number #{queue.length} in line."
 end
-end
+
