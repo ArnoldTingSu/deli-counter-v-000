@@ -6,7 +6,7 @@ def take_a_number(queue,customer)
   
 end
 
-def line(queue)
+def line?(queue)
   if queue = []?: "someone is line": "no one is in line"
   end
 end
