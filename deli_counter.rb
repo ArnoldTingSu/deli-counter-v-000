@@ -7,8 +7,8 @@ def take_a_number(queue,customer)
 end
 
 def line(queue)
-  if queue == [] ?:true
-    return "someone is line"
+  if queue == [] ?
+    return "someone is line" : "no one is in line"
   else
     return "someone is in line"
   end
