@@ -8,6 +8,6 @@ end
 
 def line(queue)
   if queue? == []
-    return "someone is line":"no one is in line"
+    return "someone is line": "no one is in line"
   end
 end
