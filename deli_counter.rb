@@ -7,7 +7,7 @@ end
 
 def line(queue)
   if queue[0] == nil
-    return "no one is in line" 
+    return "The line is currently empty" 
   else
     return "someone is in line."
   end
