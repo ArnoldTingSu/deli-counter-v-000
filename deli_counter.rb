@@ -2,7 +2,6 @@
 
 queue = []
 
-def take_a_number(customer)
   
 end
 
@@ -20,3 +19,5 @@ end
 
 
 def take_a_number(new_customer)
+  
+  puts "Welcome #{new_customer). You are number "
