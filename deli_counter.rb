@@ -3,4 +3,7 @@
 queue = []
 
 def take_a_number(queue,customer)
+  
 end
+
+def line(queue)
