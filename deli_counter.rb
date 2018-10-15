@@ -25,4 +25,6 @@ end
 def now_serving
   if queue[0] == nil
     puts "The line is currently empty"
+  else
+    return "LOLERROR"
 end
