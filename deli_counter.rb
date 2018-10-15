@@ -13,7 +13,8 @@ def line(queue)
     line_status = "The line is currently:" 
     queue.each.with_index(1) do |person, i|
       line_status << "#{i}. #{person}"
-  end
+    end
   puts line_status
+  end
 end
 
