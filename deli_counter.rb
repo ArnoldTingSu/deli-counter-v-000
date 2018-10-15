@@ -22,7 +22,7 @@ def take_a_number(queue,new_customer)
   puts "Welcome, #{new_customer}. You are number #{queue.length} in line."
 end
 
-def now_serving
+def now_serving(queue)
   if queue[0] == nil
     puts "The line is currently empty"
   else
