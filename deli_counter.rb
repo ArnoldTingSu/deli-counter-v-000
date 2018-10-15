@@ -1,3 +1,3 @@
 # Write your code here.
-line = []
+queue = []
 def take_a_number(katz_deli,customer)
