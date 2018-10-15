@@ -18,7 +18,7 @@ def line(queue)
 end
 
 
-def take_a_number(new_customer)
+def take_a_number(queue,new_customer)
   line_status << new_customer
   puts "Welcome #{new_customer}. You are number #{queue.length} in line."
 end
