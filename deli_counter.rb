@@ -8,7 +8,7 @@ end
 
 def line(queue)
   if queue[0] == nil
-    puts "The line is currently empty." 
+    prints "The line is currently empty." 
   else
     puts "The line is currently:" 
     queue
