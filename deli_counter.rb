@@ -18,3 +18,5 @@ def line(queue)
   end
 end
 
+
+def take_a_number(new_customer)
