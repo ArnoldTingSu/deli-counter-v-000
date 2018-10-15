@@ -7,7 +7,7 @@ def take_a_number(queue,customer)
 end
 
 def line(queue)
-  if queue == [] ? :true
+  if queue == [] ?:true
     return "someone is line"
   else
     return "someone is in line"
