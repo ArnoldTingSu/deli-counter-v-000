@@ -24,7 +24,7 @@ end
 
 def now_serving(queue)
   if queue[0] == nil
-    puts "There is nobody in waiting to be served!"
+    puts "There is nobody waiting to be served!"
   else
     return "LOLERROR"
   end
