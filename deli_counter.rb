@@ -11,7 +11,7 @@ def line(queue)
     puts "The line is currently empty." 
   else
     line_status = "The line is currently:" 
-    
+    queue.
   end
 end
 
