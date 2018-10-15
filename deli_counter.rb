@@ -23,5 +23,6 @@ def take_a_number(queue,new_customer)
 end
 
 def now_serving
-  
+  if queue[0] == nil
+    puts "The line is currently empty"
 end
