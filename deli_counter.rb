@@ -9,3 +9,5 @@ end
 def line(queue)
   if queue == 0
     return "the line is empty"
+  else
+    return "someone is in line"
