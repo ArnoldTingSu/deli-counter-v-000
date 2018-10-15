@@ -14,5 +14,6 @@ def line(queue)
     queue.each.with_index(1) do |person, i|
       line_status << "#{i}. #{person}"
   end
+  puts line_status
 end
 
