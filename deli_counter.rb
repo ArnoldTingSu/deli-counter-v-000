@@ -27,4 +27,5 @@ def now_serving
     puts "The line is currently empty"
   else
     return "LOLERROR"
+  end
 end
