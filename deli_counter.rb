@@ -5,7 +5,7 @@ def take_a_number(customer)
   
 end
 
-def line?(queue)
+def line(queue)
   if queue[0] == nil
     return "no one is in line" 
   else
