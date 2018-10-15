@@ -9,7 +9,3 @@ end
 def line(queue)
   if queue == [] ?
     return "someone is line" : "no one is in line"
-  else
-    return "someone is in line"
-  end
-end
