@@ -10,6 +10,6 @@ def line(queue)
   if queue[0] == nil
     puts "The line is currently empty." 
   else
-    print queue
+    queue
   end
 end
