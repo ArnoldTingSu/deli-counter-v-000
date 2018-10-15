@@ -22,3 +22,6 @@ def take_a_number(queue,new_customer)
   puts "Welcome, #{new_customer}. You are number #{queue.length} in line."
 end
 
+def now_serving
+  
+end
