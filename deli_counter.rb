@@ -7,7 +7,7 @@ def take_a_number(queue,customer)
 end
 
 def line(queue)
-  if queue > 0
+  if queue >= 1
     return "someone is line"
   else
     return "someone is in line"
