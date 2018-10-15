@@ -11,3 +11,5 @@ def line(queue)
     return "the line is empty"
   else
     return "someone is in line"
+  end
+end
