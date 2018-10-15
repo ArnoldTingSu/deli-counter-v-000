@@ -3,7 +3,6 @@
 queue = []
 
   
-end
 
 def line(queue)
   if queue[0] == nil
